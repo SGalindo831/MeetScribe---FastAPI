@@ -24,6 +24,7 @@ MeetScribe is a full-stack web application that automatically transcribes and su
 - Vanilla JavaScript - No framework dependencies
 - WebSocket API - Real-time communication
 - Fetch API - RESTful endpoint integration
+- Vercel - Design and styling
 
 ## What You Get
 
