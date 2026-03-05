@@ -32,3 +32,4 @@ temp_recordings/
 .idea/
 *.swp
 *.swo
+node_modules
